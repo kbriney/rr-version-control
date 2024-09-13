@@ -38,18 +38,18 @@ How do you record the history of your projects?
 
 ### Good - Informatively named files
 ```
-   2013-10-14_manuscriptFish.doc
-   2013-10-30_manuscriptFish.doc
-   2013-11-05_manusctiptFish_intitialRyanEdits.doc
-   2013-11-10_manuscriptFish.doc
-   2013-11-11_manuscriptFish.doc
-   2013-11-15_manuscriptFish.doc
-   2013-11-30_manuscriptFish.doc
-   2013-12-01_manuscriptFish.doc
-   2013-12-02_manuscriptFish_PNASsubmitted.doc
-   2014-01-03_manuscriptFish_PLOSsubmitted.doc
-   2014-02-15_manuscriptFish_PLOSrevision.doc
-   2014-03-14_manuscriptFish_PLOSpublished.doc
+   manuscriptFish_2013-10-14.doc
+   manuscriptFish_2013-10-30.doc
+   manuscriptFish_2013-11-05_intitialRyanEdits.doc
+   manuscriptFish_2013-11-10.doc
+   manuscriptFish_2013-11-11.doc
+   manuscriptFish_2013-11-15.doc
+   manuscriptFish_2013-11-30.doc
+   manuscriptFish_2013-12-01.doc
+   manuscriptFish_2013-12-02_PNASsubmitted.doc
+   manuscriptFish_2014-01-03_PLOSsubmitted.doc
+   manuscriptFish_2014-02-15_PLOSrevision.doc
+   manuscriptFish_2014-03-14_PLOSpublished.doc
 ```
 
 ## Better - Saving everything together at once
